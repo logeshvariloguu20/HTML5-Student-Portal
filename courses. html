@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Courses - Student Portal</title>
+</head>
+<body>
+    <h1>Our Courses</h1>
+
+    <h2>Available Courses</h2>
+
+    <ul>
+        <li>B.Tech Information Technology</li>
+        <li>B.E. Computer Science and Engineering</li>
+        <li>Artificial Intelligence and Data Science</li>
+        <li>Electronics and Communication Engineering</li>
+    </ul>
+
+    <h2>Course Details</h2>
+    <p>Our courses help students develop technical
+    knowledge and programming skills.</p>
+
+    <a href="index.html">Home</a>
+    <br><br>
+    <a href="registration.html">Student Registration</a>
+</body>
+</html>
