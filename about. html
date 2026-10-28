@@ -1,0 +1,17 @@
+ <h1>About Our Portal</h1>
+
+    <p>
+        Student Management Portal helps manage
+        student information and course details.
+    </p>
+
+    <h2>Our Objectives</h2>
+    <ul>
+        <li>Manage student details</li>
+        <li>Provide course information</li>
+        <li>Make student registration easy</li>
+    </ul>
+
+    <a href="index.html">Home</a>
+</body>
+</html>
