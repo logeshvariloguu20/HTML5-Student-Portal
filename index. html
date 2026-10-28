@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Student Management Portal</title>
+</head>
+<body>
+    <h1>Student Management Portal</h1>
+    <h2>Home Page</h2>
+    <p>Welcome to our Student Management Portal.</p>
+
+    <a href="about.html">About</a>
+    <a href="registration.html">Registration</a>
+    <a href="courses.html">Courses</a>
+    <a href="contact.html">Contact</a>
+</body>
+</html>
